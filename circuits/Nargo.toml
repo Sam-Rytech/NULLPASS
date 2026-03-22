@@ -1,0 +1,7 @@
+[package]
+name = "nullpass_circuit"
+type = "bin"
+authors = ["Nullpass Team"]
+compiler_version = "0.31.0"
+
+[dependencies]
